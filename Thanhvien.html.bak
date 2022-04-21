@@ -1,0 +1,262 @@
+<!DOCTYPE html>		
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Thành Viên Nhóm 1</title>
+	<style>
+		img.Danglogo{
+			height: 150px;
+		}
+		footer{
+			height:50px;
+			width:100%;
+			background: red;
+			clear:both;
+			text-align: center;
+			margin-top: 50px;
+			padding-top:15px;
+			box-sizing:border-box;
+			color:white;
+		}
+		div.tieude{
+			height:160px;
+			width:100%;
+			clear:both;
+			text-align: center;
+			padding-top:7px;
+			margin-bottom: 50px;
+			box-sizing:border-box;
+			color: yellow;
+			background-image: linear-gradient(to left, red , red);
+		}
+		h1{
+			margin-top: 50px;	
+			font-size: 40px;
+		}
+		body{
+			background: #dcdcdc;
+		}
+		img.Tinh{
+			height: 200px;
+			margin-left:50px;
+			margin-right:50px;
+		}
+		div.tinh{
+		padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.di{
+			height: 200px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 50px;
+		}
+		div.di{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.phong{
+			height: 200px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.phong{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.thai{
+			height: 220px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.thai{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.tram{
+			height: 200px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.tram{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.qui{
+			height: 235px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.qui{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.toan{
+			height: 230px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.toan{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.nam{
+			height: 200px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.nam{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.vinh{
+			height: 200px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.vinh{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		img.hai{
+			height: 200px;
+			margin-left:50px;
+			margin-right:50px;
+			margin-top: 20px;
+		}
+		div.hai{
+			padding-left: 50px;	
+			font-size: 30px;
+		}
+		ul{
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<div class= "tieude">
+		<img class="Danglogo" align="left" src="dang1.png" alt ="LogoDang">
+		<h1 align="left ">DANH SÁCH THÀNH VIÊN NHÓM 1</h1>
+	</div>
+	<div>
+		<img class="Tinh" align="left" src="tinh.jpg">
+	</div>
+	<div class = "tinh">
+		<ul>Đinh Công Duy Tịnh</ul>
+		<li>MSSV: DTH195403</li>
+		<li>Ngày Sinh: 22/12/2001</li>
+		<li>Sở thích: ăn chay, ngủ, làm biếng</li>
+		<li>Sở trường: Ăn cơm không biết ngán, kinh nghiệm 22 năm bị mẹ chửi.</li>
+	</div>
+	<hr>
+	<div>
+		<img class="di" align="left" src="di.jpg">
+	</div>
+	<div class = "di">
+		<ul>Võ Văn Dĩ</ul>
+		<li>MSSV: DTH195520</li>
+		<li>Ngày Sinh: 07/03/2001</li>
+		<li>Sở thích: chơi game, chơi thể thao(game esport)...</li>
+		<li>Sở trường: Thấy toàn điểm yếu nên chưa có, có chăng là đã kiếm tiền từ game được.</li>
+	</div>
+	<hr>
+	<div>
+		<img class="phong" align="left" src="phong.jpg">
+	</div>
+	<div class = "phong">
+		<ul>Lê Thanh Phong</ul>
+		<li>MSSV: DTH195545</li>
+		<li>Ngày Sinh: 28/08/2001</li>
+		<li>Sở thích: Thích chơi game,nghe nhạc, leo núi</li>
+		<li>Sở trường: Sở trường là cứ bị réo tên dù mình ko biết cái j hết 🤓.</li>
+	</div>
+	<hr>
+	<div>
+		<img class="thai" align="left" src="gorou.jpg".jpg">
+	</div>
+	<div class = "thai">
+		<ul>Trần Siêu Thái</ul>
+		<li>MSSV: DTH195526</li>
+		<li>Ngày Sinh: 09/12/2001</li>
+		<li>Sở thích: Chơi game, ăn uống, nghe nhạc, xem youtube</li>
+		<li>Sở trường: Thích hát dù hát không được hay cho lắm</li>
+		<li>Ước mơ: Làm một công việc mình thích hoặc ca sĩ nếu có thể</li>
+	</div>
+	<hr>
+	<div>
+		<img class="tram" align="left" src="tram.jpg".jpg">
+	</div>
+	<div class = "tram">
+		<ul>Cao Thị Ngọc Trâm</ul>
+		<li>MSSV: DTH195482</li>
+		<li>Ngày Sinh: 15/05/2001</li>
+		<li>Sở thích: Đọc truyện, vẽ tranh</li>
+		<li>Sở trường: Chăm sóc cây cảnh</li>
+	</div>
+	<hr>
+	<div>
+		<img class="qui" align="left" src="qui.jpg".jpg">
+	</div>
+	<div class = "qui">
+		<ul>Nguyễn Hoàng Quý</ul>
+		<li>MSSV: DTH195525</li>
+		<li>Ngày Sinh: 04/07/2001</li>
+		<li>Sở thích: Chơi game, quay tiktok, ngủ</li>
+		<li>Sở trường: Thiết kế ảnh , chỉnh video</li>
+		<li>Ước mơ: design web</li>
+	</div>
+	<hr>
+	<div>
+		<img class="toan" align="left" src="toan.jpg".jpg">
+	</div>
+	<div class = "toan">
+		<ul>Lê Minh Toàn</ul>
+		<li>MSSV: DTH195546</li>
+		<li>Ngày Sinh: 04/05/2001</li>
+		<li>Sở thích: Chơi game, quay tiktok, ngủ</li>
+		<li>Sở trường: không biết </li>
+		<li>Uớc mơ: thành công...</li>
+	</div>
+	<hr>
+	<div>
+		<img class="nam" align="left" src="nam.jpg".jpg">
+	</div>
+	<div class = "nam">
+		<ul>Nguyễn Hoàng Nam</ul>
+		<li>MSSV: DTH195462</li>
+		<li>Ngày Sinh: 24/03/2001</li>
+		<li>Sở thích: Chơi game,xem phim</li>
+		<li>Sở trường: Không biết </li>
+	</div>
+	<hr>
+	<div>
+	<img class="vinh" align="left" src="vinh.jpg".jpg">
+	</div>
+	<div class = "vinh">
+		<ul>Trần Nghĩa Quang Vinh</ul>
+		<li>MSSV: DTH195489</li>
+		<li>Ngày Sinh: 20/05/2001</li>
+		<li>Sở thích: Chơi game,đọc truyện</li>
+		<li>Sở trường: Không biết </li>
+	</div>
+	<hr>
+	<div>
+	<img class="hai" align="left" src="hai.jpg".jpg">
+	</div>
+	<div class = "hai">
+		<ul>Huỳnh Phước Hải </ul>
+		<li>MSSV: DTH195522</li>
+		<li>Ngày Sinh: 05/04/2001</li>
+		<li>Sở thích: Xem bóng đá,xem phim,..</li>
+		<li>Sở trường: Chơi thể thao</li>
+	</div>
+	<footer>Bản quyền &copy; 2022 bởi Nhóm 1 </footer>
+</body>
+</html>
